@@ -16,6 +16,12 @@ Install the project dependencies:
 npm install
 ```
 
+Create a `.env` file under the root project directory and populate it with the following:
+
+```bash
+REACT_APP_API_SERVER_URL=http://localhost:6060
+```
+
 Run the application:
 
 ```bash
